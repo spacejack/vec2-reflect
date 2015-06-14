@@ -1,4 +1,4 @@
-var reflect = require('./index');
+var reflect = require('./index')
 
 var v = new Float32Array([1,1])
 var n = new Float32Array([0,-1])
