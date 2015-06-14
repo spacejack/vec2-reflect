@@ -1,0 +1,17 @@
+{
+  "name": "vec2-reflect",
+  "version": "1.0.0",
+  "description": "Calculates 2D vector reflected off line normal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "reflect",
+    "2D",
+    "vector",
+    "line"
+  ],
+  "author": "Mike Linkovich",
+  "license": "MIT"
+}
